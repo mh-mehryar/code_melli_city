@@ -1,0 +1,16 @@
+D:\.Net\Exercise\Exam_1\City_CodeMelli\bin\Debug\net5.0\City_CodeMelli.exe
+D:\.Net\Exercise\Exam_1\City_CodeMelli\bin\Debug\net5.0\City_CodeMelli.deps.json
+D:\.Net\Exercise\Exam_1\City_CodeMelli\bin\Debug\net5.0\City_CodeMelli.runtimeconfig.json
+D:\.Net\Exercise\Exam_1\City_CodeMelli\bin\Debug\net5.0\City_CodeMelli.runtimeconfig.dev.json
+D:\.Net\Exercise\Exam_1\City_CodeMelli\bin\Debug\net5.0\City_CodeMelli.dll
+D:\.Net\Exercise\Exam_1\City_CodeMelli\bin\Debug\net5.0\ref\City_CodeMelli.dll
+D:\.Net\Exercise\Exam_1\City_CodeMelli\bin\Debug\net5.0\City_CodeMelli.pdb
+D:\.Net\Exercise\Exam_1\City_CodeMelli\obj\Debug\net5.0\City_CodeMelli.csproj.AssemblyReference.cache
+D:\.Net\Exercise\Exam_1\City_CodeMelli\obj\Debug\net5.0\City_CodeMelli.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\Exercise\Exam_1\City_CodeMelli\obj\Debug\net5.0\City_CodeMelli.AssemblyInfoInputs.cache
+D:\.Net\Exercise\Exam_1\City_CodeMelli\obj\Debug\net5.0\City_CodeMelli.AssemblyInfo.cs
+D:\.Net\Exercise\Exam_1\City_CodeMelli\obj\Debug\net5.0\City_CodeMelli.csproj.CoreCompileInputs.cache
+D:\.Net\Exercise\Exam_1\City_CodeMelli\obj\Debug\net5.0\City_CodeMelli.dll
+D:\.Net\Exercise\Exam_1\City_CodeMelli\obj\Debug\net5.0\ref\City_CodeMelli.dll
+D:\.Net\Exercise\Exam_1\City_CodeMelli\obj\Debug\net5.0\City_CodeMelli.pdb
+D:\.Net\Exercise\Exam_1\City_CodeMelli\obj\Debug\net5.0\City_CodeMelli.genruntimeconfig.cache
